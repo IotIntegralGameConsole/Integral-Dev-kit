@@ -11,6 +11,7 @@ Open Source Project HeadQuarters Location: Estonia, Tallinn(Coming Soon!!)
 
 --------------------------------------
 "Integral" Open Source & Open Hardware Project Licenses
+
 We may follow Dual Licenses. except Main Custom CPU/GPU Module(undecided), ODD(CD, DVD, Blu-ray etc)(undecided)
 
 --------------------------------------
