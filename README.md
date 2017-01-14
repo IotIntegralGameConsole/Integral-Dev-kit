@@ -19,8 +19,9 @@ We can design PCB circuit by Open Source Circuit Program and we can make PCB cir
 in the Future, we can make to equipments like 3D Printer Machine in Fab-Lab and Material Shop 
 
 --------------------------------------
+
 Development Plan 
-- Target OS(Operating System) for Development: Custom OS by Yocto Project(Tizen) 
+- Target OS(Operating System) for Development: Custom OS by Yocto Project(First OS, Tizen) 
 **We follow Yocto Project
 https://www.yoctoproject.org/
 
