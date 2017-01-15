@@ -38,7 +38,7 @@ https://wiki.yoctoproject.org/wiki/Main_Page
 
 - Security Program Development
 
-- Support from Various Game Engine
+- Support Request from Various Game Engine
 
 - Compatibility with Various Devices(Mobile, TV, PC, else Device like Arcade Machine)
 
