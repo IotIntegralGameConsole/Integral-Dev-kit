@@ -27,6 +27,7 @@ Development Plan
 Tizen - Bsd 3 Clause License Version 
 https://www.tizen.org/bsd-3-clause-license?langredirect=1
 
+
 **We follow Yocto Project
 https://www.yoctoproject.org/
 https://wiki.yoctoproject.org/wiki/Main_Page
