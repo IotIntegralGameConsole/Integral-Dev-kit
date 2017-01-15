@@ -29,7 +29,7 @@ https://www.yoctoproject.org/
 
 - Integral Firmware Version Development by Forward/Upward or Backward Compatibility  
 
-- Integral GUI
+- Integral GUI & Custom Boot Animation
 
 - Security Program Development
 
