@@ -34,7 +34,7 @@ https://wiki.yoctoproject.org/wiki/Main_Page
 
 - Integral Custom Firmware(Software) Development including Patch Version by Forward/Upward or Backward Compatibility  
 
-- Integral Custom GUI & Custom Boot Animation
+- Integral Custom GUI & Custom Boot Animation Development
 
 - Security Program Development
 
