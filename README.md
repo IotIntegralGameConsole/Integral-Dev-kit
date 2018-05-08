@@ -22,6 +22,8 @@ GPU
 AMD GCN Architecture Documents(under Specification License)
 https://developer.amd.com/resources/developer-guides-manuals/
 
+AMD - Yocto
+https://www.yoctoproject.org/members/amd/
 --------------------------------------
 Character of  "Integral" Game Console
 - DIY Custom Module Game Console
@@ -49,6 +51,24 @@ https://wiki.yoctoproject.org/wiki/Main_Page
 - Support Request from Various Game Engine
 
 - Compatibility with Various Devices(Mobile, TV, PC, else Device like Arcade Machine)
+
+----------------------------------------
+Support Various OS
+Main OS
+Yocto Project
+
+Else OS
+Tizen
+WebOS
+Fedora
+Montavista
+
+IoT / Cloud
+FreeRTOS
+ARM Mbed OS
+
+Distrowatch - use BSD Linux OS 
+https://distrowatch.com/
 
 --------------------------------------
 Integral Game Console IoT Github Page
