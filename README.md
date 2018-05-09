@@ -52,6 +52,9 @@ http://0pf.org/
 ARM DesignStart (IoT / Cloud Processor Development Based Cortex M0 / Cortex M3)
 https://developer.arm.com/products/designstart
 
+ARM Custom SoCs
+https://www.arm.com/develop/custom-system-on-chips
+
 Bootlin
 
 https://bootlin.com/
@@ -106,7 +109,10 @@ https://www.tizen.org/bsd-3-clause-license?langredirect=1
 
 https://git.tizen.org/cgit/
 
-WebOS
+WebOS Open Source Edition - Apache License 2.0
+
+http://webosose.org/
+
 
 Fedora
 
@@ -114,9 +120,15 @@ Montavista
 
 IoT / Cloud
 
-FreeRTOS
+FreeRTOS - MIT License
 
-ARM Mbed OS
+https://www.freertos.org/
+
+Amazon FreeRTOS - MIT License
+https://aws.amazon.com/freertos/?nc1=h_ls
+
+ARM Mbed OS - Open Source by End User License Agreement (this "EULA")
+https://www.mbed.com/en/
 
 Distrowatch - use BSD Linux OS 
 
