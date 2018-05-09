@@ -72,8 +72,11 @@ Development Plan
 
 
 **We follow Yocto Project
+
 https://www.yoctoproject.org/
+
 https://wiki.yoctoproject.org/wiki/Main_Page
+
 https://git.yoctoproject.org/
 
 - Integral Custom Firmware(Software) Development including Patch Version by Forward/Upward or Backward Compatibility  
