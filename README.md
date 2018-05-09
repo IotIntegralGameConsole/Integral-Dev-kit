@@ -50,9 +50,11 @@ http://0pf.org/
 
 
 ARM DesignStart (IoT / Cloud Processor Development Based Cortex M0 / Cortex M3)
+
 https://developer.arm.com/products/designstart
 
 ARM Custom SoCs
+
 https://www.arm.com/develop/custom-system-on-chips
 
 Bootlin
@@ -62,6 +64,7 @@ https://bootlin.com/
 Linux Driver Source Test - Bootlin
 
 https://elixir.bootlin.com/linux/v4.17-rc4/source/drivers/video/hdmi.c
+
 --------------------------------------
 Character of  "Integral" Game Console
 - DIY Custom Module Game Console
