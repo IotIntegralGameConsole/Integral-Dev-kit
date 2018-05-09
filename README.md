@@ -24,6 +24,15 @@ https://developer.amd.com/resources/developer-guides-manuals/
 
 AMD - Yocto
 https://www.yoctoproject.org/members/amd/
+
+J-Core(BSD License, Old) SuperH(SH) Series by Hitachi) (Co-Processor Development) - J-Core.org
+http://j-core.org/
+
+Bootlin
+https://bootlin.com/
+
+Linux Driver Source Test - Bootlin
+https://elixir.bootlin.com/linux/v4.17-rc4/source/drivers/video/hdmi.c
 --------------------------------------
 Character of  "Integral" Game Console
 - DIY Custom Module Game Console
