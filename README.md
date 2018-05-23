@@ -1,6 +1,6 @@
 # Integral-Dev-kit
 
-Integral Dev-Kit by Nurgakivi Lab., Estonia
+Integral Dev-Kit by Nurgakivi Lab, Estonia
 
 This powered by BSD-3 Clause / MIT License Version Licensed 2018
 
