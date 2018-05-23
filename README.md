@@ -23,7 +23,15 @@ CPU
 
 RISC-V: https://riscv.org/
 
+RISC-V Github: https://github.com/riscv/riscv-wiki/wiki/RISC-V-Software-Status
+
 SiFive: https://www.sifive.com/
+
+FPGA for Test
+
+Microsemi: https://www.microsemi.com/
+
+Future Electronics: http://www.FutureElectronics.com
 
 GPU
 
@@ -188,9 +196,15 @@ Open Firmware (BSD License)
 http://www.firmworks.com/QuickRef.html
 
 ----------------------------------------
-[Graphical User Interface(GUI) & Widjet Design]
+["CUXML(Circle User Experience Media Layer)" Graphical User Interface(GUI) & Widjet Design]
 
 Qt (Commercial & Open Source ( GPL, LGPL) By Dual License)
+
+https://www.qt.io/
+
+https://wiki.qt.io/Main
+
+https://github.com/qt
 
 https://download.qt.io/official_releases/qt/
 
@@ -221,6 +235,10 @@ http://opencircuitdesign.com/magic/
 KiCad
 
 http://kicad-pcb.org/
+
+KiCad Libraries
+
+https://kicad.github.io/
 
 --------------------------------------
 [Power Supply Design]
